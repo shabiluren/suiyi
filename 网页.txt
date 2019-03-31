@@ -1,0 +1,87 @@
+.nav-logo {
+            position: absolute;
+            top: 50px;
+            left: 534px;
+            z-index: 2;
+            display: inline-block;
+            width: 180px;
+            height: 60px;
+            background-position: 0 -222px;
+            background-image: url(tupian/iogo.png);
+            background-repeat: no-repeat;
+        }
+        
+        .nav-inner {
+            position: relative;
+            z-index: 3;
+        }
+        
+        .nav-search {
+            margin-top: 65px;
+            float: right;
+            width: 400px;
+            z-index: 10;
+        }
+        
+        .nav-search a {
+            float: right;
+            padding-left: 20px;
+            padding-right: 0;
+            font-size: 14px;
+            height: 31px;
+            width: 63px;
+            text-decoration: none;
+        }
+        
+        .icon-cart {
+            margin-top: 9px;
+            margin-right: 5px;
+            background-position: 0 -343px;
+            height: 22px;
+            width: 22px;
+            display: inline-block;
+            overflow: hidden;
+            vertical-align: top;
+            font-size: 12px;
+            word-spacing: normal;
+            background-image: url(tupian/icon.png);
+        }
+        
+        .cart-num {
+            height: 19px;
+            width: 19px;
+            display: inline-block;
+            overflow: hidden;
+            vertical-align: top;
+            font-size: 12px;
+            word-spacing: normal;
+            letter-spacing: normal;
+            background-image: url(tupian/icon.png);
+            font-family: tahoma, sans-serif;
+            font-style: normal;
+        }
+        
+        .searchInput {
+            float: right;
+            padding-left: 20px;
+            position: relative;
+            display: block;
+        }
+        
+        .search-buttom {
+            cursor: pointer;
+            padding-top: 9px;
+            float: right;
+        }
+        
+        .search-button i {
+            background-position: 0 -5798px;
+            height: 22px;
+            width: 22px;
+            display: inline-block;
+            overflow: hidden;
+            vertical-align: top;
+            font-size: 12px;
+            word-spacing: normal;
+            font-style: normal;
+            background-image: url(tupian/icon2.png);
