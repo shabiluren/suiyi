@@ -1,0 +1,29 @@
+aaa 村庄1
+gui 幽灵塔
+kuang1 矿山1
+caoxidaoguan 草系道馆
+
+
+
+
+
+
+aaa 村庄1（地面道馆）
+guita 幽灵塔
+huahai 花海
+xiangrikui 向日葵平原
+
+
+
+
+
+
+pokeheal 治疗
+evs 努力值
+ivs 个体值
+
+
+
+
+
+
